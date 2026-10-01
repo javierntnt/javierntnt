@@ -1,7 +1,7 @@
 ## ¡Hola! Soy Javier Alejandro Torres 👋
 **Tecnólogo en Desarrollo de Software | React, Next.js, React Native & Java**
 
-Soy un desarrollador radicado en Bogotá, Colombia, enfocado en construir aplicaciones web y móviles eficientes y escalables. Recientemente finalicé con éxito el desarrollo integral de un software contable a medida para MULTIXIS SAS y la app móvil CANCHAYA. Además, soy un apasionado por la algoritmia y la resolución de problemas lógicos, con participación destacada en maratones de programación CCPL.
+Soy un desarrollador radicado en Bogotá, Colombia, enfocado en construir aplicaciones web y móviles eficientes y escalables. Recientemente finalicé con éxito el desarrollo integral de un software contable básico a medida para MULTIXIS SAS y la app móvil CANCHAYA. Además, soy un apasionado por la algoritmia y la resolución de problemas lógicos, con participación destacada en maratones de programación CCPL.
 
 ## 🌐 Conéctate conmigo:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-torres-924a2a2ab?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
